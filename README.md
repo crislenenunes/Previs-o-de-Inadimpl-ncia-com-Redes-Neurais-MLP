@@ -1,4 +1,4 @@
-# 🚢 Modelo Preditivo com Redes Neurais MLP  
+# 🧠💳 Modelo Preditivo com Redes Neurais MLP  
 ### 🎯 Previsão de Inadimplência em Cartões de Crédito
 
 Este repositório contém um projeto de aplicação de redes neurais multicamadas (MLP) para prever a inadimplência de clientes de cartão de crédito com base em dados reais.  
